@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saidul Islam</h1>
 <h3 align="center">A passionate Developer from Bangladesh.</h3>
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=bIwoEoiJh1I1hQ&pid=ImgRaw&r=0" style="border-radius: 5%;">
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=bIwoEoiJh1I1hQ&pid=ImgRaw&r=0" style="border-radius:50px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidulislam-officia&label=Profile%20views&color=0e75b6&style=flat" alt="saidulislam-officia" /> </p>
 
